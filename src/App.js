@@ -6,7 +6,7 @@ import { Divider } from "antd";
 import GUN from "gun";
 // Components
 import TitleSegment from "./components/TitleSegment";
-import Viewer from "./components/Viewer'";
+import Viewer from "./components/Viewer";
 import SVGUploadForm from "./components/SVGUploadForm";
 
 export default function App() {
